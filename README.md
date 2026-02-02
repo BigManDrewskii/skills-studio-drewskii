@@ -90,13 +90,6 @@ Got a skill idea or improvement? Here's how:
 
 Review [AGENTS.md](AGENTS.md) for detailed style guidelines.
 
-## Inspiration & Credits
-
-These skills are built on:
-- [Claude Code Skills Studio](https://docs.anthropic.com/en/docs/claude-code/skills) documentation
-- "Are Your Lights On?" by Gerald Weinberg (problem-solving methodology)
-- Industry best practices from SF Bay Area engineering teams
-
 ## License
 
 MIT License - feel free to use, modify, and distribute these skills.
